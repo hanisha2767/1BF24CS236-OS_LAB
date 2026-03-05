@@ -18,6 +18,7 @@ int main()
             }
         }
     }
-    printf("number of duplicate elements in an array is %d",count);
+    printf("count of duplicate elements in an array is %d",count);
     return 0;
 }
+
