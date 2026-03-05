@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,pos,temp;
+    int n,pos;
     printf("enter number of elements in array:");
     scanf("%d",&n);
     int arr[n];
@@ -21,4 +21,5 @@ int main()
     }
     return 0;
 }
+
 
