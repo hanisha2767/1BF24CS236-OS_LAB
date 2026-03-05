@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,m;
+    int n;
     int sum=0;
     printf("enter the size of array:");
     scanf("%d",&n);
@@ -17,4 +17,5 @@ int main()
     }
     printf("sum of left diagonal elements in an array is %d",sum);
 }
+
 
